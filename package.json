@@ -1,0 +1,31 @@
+{
+  "name": "adventjs",
+  "version": "1.0.0",
+  "description": "Personal repository for adventjs.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arialdev/adventjs.git"
+  },
+  "keywords": [
+    "adventjs",
+    "advent",
+    "JavaScript",
+    "Gamification",
+    "Solutions"
+  ],
+  "author": "arialdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arialdev/adventjs/issues"
+  },
+  "homepage": "https://github.com/arialdev/adventjs#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "type": "module",
+  "private": true
+}
