@@ -1,5 +1,5 @@
 /**
- * Description of the problem:
+ * Problem description:
  El Grinch está abriendo las cartas que iban a Santa Claus y las está dejando hechas un lío. 😱
 
  Las cartas son una cadena de texto que incluyen regalos y paréntesis ().

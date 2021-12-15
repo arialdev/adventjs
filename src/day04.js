@@ -1,5 +1,5 @@
 /**
- * Description of the problem:
+ * Problem description:
  ¡Es hora de poner el árbol de navidad en casa! 🎄
 
  Para ello vamos a crear una función que recibe la altura del árbol, que será un entero positivo del 1 a, como máximo,
@@ -35,28 +35,27 @@
  * 1. Formulas are not cleaned as in the second implementation so people can understand where do they come from.
  * 2. This is a readable solution, but a very boring one.
  */
-
-export default function createXmasTree(height) {
-    function fillRow(start, end, width, character = '*') {
-        let text = '';
-        for (let i = 0; i < start; i++) text += '_';
-        for (let i = start; i < end; i++) text += character;
-        for (let i = end; i < width; i++) text += '_';
-        return text;
-    }
-
-    let tree = '';
-    const width = height * 2 - 1;
-    for (let h = 1; h < height + 1; h++) {
-        let rowWidth = h * 2 - 1;
-        let rowSpaces = (width - rowWidth) / 2;
-        tree += fillRow(rowSpaces, width - rowSpaces, width);
-        tree += '\n';
-    }
-    let rowWidth = 1;
-    let rowSpaces = (width - rowWidth) / 2;
-    return `${tree}${fillRow(rowSpaces, width - rowSpaces, width, '#')}\n${fillRow(rowSpaces, width - rowSpaces, width, '#')}`;
-}
+// export default function createXmasTree(height) {
+//     function fillRow(start, end, width, character = '*') {
+//         let text = '';
+//         for (let i = 0; i < start; i++) text += '_';
+//         for (let i = start; i < end; i++) text += character;
+//         for (let i = end; i < width; i++) text += '_';
+//         return text;
+//     }
+//
+//     let tree = '';
+//     const width = height * 2 - 1;
+//     for (let h = 1; h < height + 1; h++) {
+//         let rowWidth = h * 2 - 1;
+//         let rowSpaces = (width - rowWidth) / 2;
+//         tree += fillRow(rowSpaces, width - rowSpaces, width);
+//         tree += '\n';
+//     }
+//     let rowWidth = 1;
+//     let rowSpaces = (width - rowWidth) / 2;
+//     return `${tree}${fillRow(rowSpaces, width - rowSpaces, width, '#')}\n${fillRow(rowSpaces, width - rowSpaces, width, '#')}`;
+// }
 
 /**
  * Title: Building the tree in just two lines using ternary operator and recursion.
