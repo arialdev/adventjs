@@ -1,4 +1,5 @@
 /**
+ * Problem description:
  ¡Hemos perdido a un reno y falta poco más de una semana para Navidad! 😱
 
  Lo peor es que son tantos que no sabemos cuál es el que nos falta... ¡Qué lío! A ver, Elfon Musk ha hecho inventario y

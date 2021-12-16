@@ -1,4 +1,5 @@
 /**
+ * Problem description:
  ¡Hay demasiados regalos 🎁! Y envolverlos es una locura...
 
  Vamos a crear una función que pasándole un array de regalos, nos devuelva otro array pero donde todos los regalos han

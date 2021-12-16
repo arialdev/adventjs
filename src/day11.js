@@ -1,4 +1,5 @@
 /**
+ * Problem description:
  Este mes de diciembre hay películas super interesantes en el cine... y tengo que optimizar cómo gasto el dinero.
 
  Mi cine favorito tiene dos posibilidades:

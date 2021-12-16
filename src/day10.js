@@ -1,4 +1,5 @@
 /**
+ * Problem description:
  Para mejorar la productividad de la tienda en la que trabajamos, vamos a crear una pequeña máquina que calcula el
  mínimo número de monedas que debemos usar para dar el cambio de una compra en metálico.
 
