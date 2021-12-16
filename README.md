@@ -27,7 +27,7 @@ If you think you got into a better solution than the one I propose, please let m
 |  12  | [La ruta perfecta para dejar los regalos](https://github.com/arialdev/adventjs/blob/main/src/day12.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day12.test.js) |
 |  13  | [Envuelve regalos con asteriscos](https://github.com/arialdev/adventjs/blob/main/src/day13.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day13.test.js) |
 |  14  | [En busca del reno perdido](https://github.com/arialdev/adventjs/blob/main/src/day14.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day14.test.js) |
-|  15  |                              -                               |                                                              |
+|  15  | [El salto perfecto](https://github.com/arialdev/adventjs/blob/main/src/day15.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day15.test.js) |
 |  16  |                              -                               |                                                              |
 |  17  |                              -                               |                                                              |
 |  18  |                              -                               |                                                              |
