@@ -1,6 +1,6 @@
 import getCoins from '../src/day10'
 
-describe('Day 11 challenge', () => {
+describe('Day 10 challenge', () => {
     test('51 cents', () => {
         expect(getCoins(51)).toEqual([1, 0, 0, 0, 0, 1]);
     });

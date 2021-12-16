@@ -1,6 +1,6 @@
 import createXmasTree from '../src/day04'
 
-describe('Day 2 challenge', () => {
+describe('Day 4 challenge', () => {
     test('Create tree height 5', () => {
         expect(createXmasTree(5)).toEqual('____*____\n' +
             '___***___\n' +

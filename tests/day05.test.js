@@ -1,6 +1,6 @@
 import daysToXmas from '../src/day05'
 
-describe('Check past dates', () => {
+describe('Day 5 challenge\'', () => {
     test('First of same month same year', () => {
         expect(daysToXmas(new Date('Dec 1, 2021'))).toEqual(24)
     });
@@ -13,9 +13,6 @@ describe('Check past dates', () => {
     test('Same month, same year previous day', () => {
         expect(daysToXmas(new Date("December 20, 2021 03:24:00"))).toEqual(5)
     });
-});
-
-describe('Check future dates', () => {
     test('The same day', () => {
         expect(daysToXmas(new Date('Dec 25, 2021'))).toEqual(0)
     });
