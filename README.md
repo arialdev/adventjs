@@ -29,7 +29,7 @@ If you think you got into a better solution than the one I propose, please let m
 |  14  | [En busca del reno perdido](https://github.com/arialdev/adventjs/blob/main/src/day14.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day14.test.js) |
 |  15  | [El salto perfecto](https://github.com/arialdev/adventjs/blob/main/src/day15.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day15.test.js) |
 |  16  | [Descifrando los números...](https://github.com/arialdev/adventjs/blob/main/src/day16.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day16.test.js) |
-|  17  |                              -                               |                                                              |
+|  17  | [La locura de enviar paquetes en esta época](https://github.com/arialdev/adventjs/blob/main/src/day17.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day17.test.js) |
 |  18  |                              -                               |                                                              |
 |  19  |                              -                               |                                                              |
 |  20  |                              -                               |                                                              |
