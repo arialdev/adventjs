@@ -1,6 +1,6 @@
 import countPackages from '../src/day17'
 
-describe('Day 16 challenge', () => {
+describe('Day 17 challenge', () => {
     test('Same symbol 3 times', () => {
         const carriers = [
             ['dapelu', 5, ['midu', 'jelowing']],

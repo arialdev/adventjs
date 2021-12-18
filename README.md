@@ -30,7 +30,7 @@ If you think you got into a better solution than the one I propose, please let m
 |  15  | [El salto perfecto](https://github.com/arialdev/adventjs/blob/main/src/day15.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day15.test.js) |
 |  16  | [Descifrando los números...](https://github.com/arialdev/adventjs/blob/main/src/day16.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day16.test.js) |
 |  17  | [La locura de enviar paquetes en esta época](https://github.com/arialdev/adventjs/blob/main/src/day17.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day17.test.js) |
-|  18  |                              -                               |                                                              |
+|  18  | [[El sistema operativo de Santa Claus](https://adventjs.dev/challenges/18)](https://github.com/arialdev/adventjs/blob/main/src/day18.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day18.test.js) |
 |  19  |                              -                               |                                                              |
 |  20  |                              -                               |                                                              |
 |  21  |                              -                               |                                                              |
