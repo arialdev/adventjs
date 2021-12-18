@@ -34,14 +34,14 @@
  *      case), starts empty, and during the iteration I'll be filling it. If I get to al element that doesn't appears on the
  *      map, I added with an starting value of 1 (first occurrence). Otherwise I increments its existing value.
  * - The mapping works like this:
- *      1. I always return first the actual item. Then I check if the iten exists on the map. If it does exist I just
+ *      1. I always return first the actual item. Then I check if the item exists on the map. If it does exist I just
  *              have to return the value and increment it. Otherwise, I use the same trick I used on exercise 10.
  *      2. The trick consists on that I don't wanna to return nothing, as the first occurrences of items shall not have
  *              the counter on their string. But I need to modify its value. By doing this[file] = 1 the returning value
  *              would be '1'. I don't want this. Because of this I put this sentence in an inner void function so the
  *              returning value would be 'undefined'. Why would I do that? I don't want 'undefined' either. Because by
- *              getting and undefined I could use the OR logical operator to return and empty string. By doing this I
- *              can modify its value and return nothing.
+ *              getting and undefined I could use the nullish coalescing operator ?? (logical OR operator || would work
+ *              too) to return and empty string. By doing this I can modify its value and return nothing.
  */
 export default function fixFiles(files) {
     return files.map(function (file) {
