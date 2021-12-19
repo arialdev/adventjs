@@ -38,5 +38,5 @@
  *  ¤ The right part means the same but in the oposite order.
  */
 export default function contarOvejas(ovejas) {
-    return ovejas.filter(oveja => oveja.color === 'rojo' && oveja.name.match(/[nN][aA]|[aA][nN]/))
+    return ovejas.filter(oveja => oveja.color === 'rojo' && oveja.name.match(/[nN][^aA]*[aA]|[aA][^nN]*[nN]/))
 }
