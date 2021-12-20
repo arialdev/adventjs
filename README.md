@@ -32,7 +32,7 @@ If you think you got into a better solution than the one I propose, please let m
 |  17  | [La locura de enviar paquetes en esta época](https://github.com/arialdev/adventjs/blob/main/src/day17.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day17.test.js) |
 |  18  | [El sistema operativo de Santa Claus](https://github.com/arialdev/adventjs/blob/main/src/day18.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day18.test.js) |
 |  19  | [¿Qué deberíamos aprender en Platzi?](https://github.com/arialdev/adventjs/blob/main/src/day19.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day19.test.js) |
-|  20  |                              -                               |                                                              |
+|  20  | [¿Una carta de pangramas? ¡QUÉ!](https://github.com/arialdev/adventjs/blob/main/src/day20.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day20.test.js) |
 |  21  |                              -                               |                                                              |
 |  22  |                              -                               |                                                              |
 |  23  |                              -                               |                                                              |
