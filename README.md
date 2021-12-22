@@ -34,7 +34,7 @@ If you think you got into a better solution than the one I propose, please let m
 | 19 |    [¿Qué deberíamos aprender en Platzi?](https://github.com/arialdev/adventjs/blob/main/src/day19.js)    | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day19.test.js) |
 | 20 |       [¿Una carta de pangramas? ¡QUÉ!](https://github.com/arialdev/adventjs/blob/main/src/day20.js)       | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day20.test.js) |
 | 21 |            [La ruta con los regalos](https://github.com/arialdev/adventjs/blob/main/src/day21.js)            | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day21.test.js) |
-| 22 |                                                      -                                                      |                                                                          |
+| 22 |     [¿Cuantos adornos necesita el árbol?](https://github.com/arialdev/adventjs/blob/main/src/day22.js)     | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day22.test.js) |
 | 23 |                                                      -                                                      |                                                                          |
 | 24 |                                                      -                                                      |                                                                          |
 | 25 |                                                      -                                                      |                                                                          |
