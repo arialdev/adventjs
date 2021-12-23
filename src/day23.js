@@ -74,6 +74,7 @@ export default function canReconfigure(from, to) {
         if (map.has(to[i]) && map.get(to[i]) !== from[i] || map.has(from[i]) && map.get(from[i]) !== to[i])
             return false;
         map.set(to[i], from[i]);
+        map.set(from[i], to[i]);
     }
     return true;
 }
