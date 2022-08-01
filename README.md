@@ -37,4 +37,4 @@ If you think you got into a better solution than the one I propose, please let m
 | 22 |                [¿Cuantos adornos necesita el árbol?](https://github.com/arialdev/adventjs/blob/main/src/day22.js)                | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day22.test.js) |
 | 23 | [¿Puedes reconfigurar las fábricas para no parar de crear regalos?](https://github.com/arialdev/adventjs/blob/main/src/day23.js) | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day23.test.js) |
 | 24 |                   [Comparando árboles de Navidad](https://github.com/arialdev/adventjs/blob/main/src/day24.js)                   | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day24.test.js) |
-| 25 |                   [Comparando árboles de Navidad](https://github.com/arialdev/adventjs/blob/main/src/day24.js)                   | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day25.test.js) |
+| 25 |                   [El último juego y hasta el año que viene 👋](https://github.com/arialdev/adventjs/blob/main/src/day24.js)                   | [✅](https://github.com/arialdev/adventjs/blob/main/tests/day25.test.js) |
