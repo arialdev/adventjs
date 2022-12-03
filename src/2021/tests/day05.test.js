@@ -1,4 +1,4 @@
-import daysToXmas from '../src/day05'
+import daysToXmas from '../exercices/day05'
 
 describe('Day 5 challenge\'', () => {
     test('First of same month same year', () => {

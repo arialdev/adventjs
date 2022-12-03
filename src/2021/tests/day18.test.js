@@ -1,4 +1,4 @@
-import fixFiles from '../src/day18'
+import fixFiles from '../exercices/day18'
 
 describe('Day 18 challenge', () => {
     test('Items without parenthesis but with repetitions', () => {

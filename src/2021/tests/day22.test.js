@@ -1,4 +1,4 @@
-import countDecorations from '../src/day22'
+import countDecorations from '../exercices/day22'
 
 describe('Day 22 challenge', () => {
     test('Small tree', () => {

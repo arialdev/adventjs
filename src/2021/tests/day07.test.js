@@ -1,4 +1,4 @@
-import contains from '../src/day07'
+import contains from '../exercices/day07'
 
 describe('Day 7 challenge', () => {
     test('Existing result in 3 level depth', () => {

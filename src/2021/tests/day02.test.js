@@ -1,4 +1,4 @@
-import listGifts from '../src/day02'
+import listGifts from '../exercices/day02'
 
 describe('Day 2 challenge', () => {
     test('Group and filter gifts letter', () => {

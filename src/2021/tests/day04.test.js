@@ -1,4 +1,4 @@
-import createXmasTree from '../src/day04'
+import createXmasTree from '../exercices/day04'
 
 describe('Day 4 challenge', () => {
     test('Create tree height 5', () => {

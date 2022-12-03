@@ -1,4 +1,4 @@
-import isValid from '../src/day03'
+import isValid from '../exercices/day03'
 
 describe('Day 3 challenge', () => {
     test('is valid letter without parenthesis', () => {

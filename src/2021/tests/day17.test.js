@@ -1,4 +1,4 @@
-import countPackages from '../src/day17'
+import countPackages from '../exercices/day17'
 
 describe('Day 17 challenge', () => {
     test('Same symbol 3 times', () => {

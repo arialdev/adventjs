@@ -1,4 +1,4 @@
-import wrapGifts from '../src/day13'
+import wrapGifts from '../exercices/day13'
 
 describe('Day 13 challenge', () => {
     test('Two single gifts', () => {

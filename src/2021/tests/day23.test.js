@@ -1,4 +1,4 @@
-import canReconfigure from '../src/day23'
+import canReconfigure from '../exercices/day23'
 
 describe('Day 23 challenge', () => {
     test('Correct translation even having most of the characters on both parameters ', () => {

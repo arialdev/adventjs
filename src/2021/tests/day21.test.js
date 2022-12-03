@@ -1,4 +1,4 @@
-import canCarry from '../src/day21'
+import canCarry from '../exercices/day21'
 
 describe('Day 21 challenge', () => {
     test("Cannot go to the first destiny because on the second stop the weight is to high", () => {

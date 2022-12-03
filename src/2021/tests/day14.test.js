@@ -1,4 +1,4 @@
-import missingReindeer from '../src/day14'
+import missingReindeer from '../exercices/day14'
 
 describe('Day 14 challenge', () => {
     test('Missing half with a few sorted items', () => {

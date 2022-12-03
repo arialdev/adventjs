@@ -1,4 +1,4 @@
-import learn from '../src/day19'
+import learn from '../exercices/day19'
 
 describe('Day 19 challenge', () => {
     test('The first and the third courses are the solution', () => {

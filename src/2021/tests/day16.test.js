@@ -1,4 +1,4 @@
-import decodeNumber from '../src/day16'
+import decodeNumber from '../exercices/day16'
 
 describe('Day 16 challenge', () => {
     test('Same symbol 3 times', () => {

@@ -1,4 +1,4 @@
-import shouldBuyFidelity from '../src/day11'
+import shouldBuyFidelity from '../exercices/day11'
 
 describe('Day 11 challenge', () => {
     test('1 ticket', () => {

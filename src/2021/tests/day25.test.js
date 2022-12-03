@@ -1,4 +1,4 @@
-import canMouseEat from '../src/day25'
+import canMouseEat from '../exercices/day25'
 
 describe('Day 25 challenge', () => {
     const room = [

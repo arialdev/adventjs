@@ -1,4 +1,4 @@
-import sumPairs from '../src/day06'
+import sumPairs from '../exercices/day06'
 
 describe('Day 6 challenge', () => {
     test('First and last', () => {

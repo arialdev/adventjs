@@ -1,4 +1,4 @@
-import getMinJump from '../src/day12'
+import getMinJump from '../exercices/day12'
 
 describe('Day 12 challenge', () => {
     test('Unsorted obstacles: medium jump', () => {

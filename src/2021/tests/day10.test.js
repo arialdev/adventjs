@@ -1,4 +1,4 @@
-import getCoins from '../src/day10'
+import getCoins from '../exercices/day10'
 
 describe('Day 10 challenge', () => {
     test('51 cents', () => {

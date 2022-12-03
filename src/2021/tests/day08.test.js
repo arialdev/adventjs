@@ -1,4 +1,4 @@
-import maxProfit from '../src/day08'
+import maxProfit from '../exercices/day08'
 
 describe('Day 8 challenge', () => {
     test('The price varies along the day', () => {

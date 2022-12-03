@@ -1,4 +1,4 @@
-import pangram from '../src/day20'
+import pangram from '../exercices/day20'
 
 describe('Day 20 challenge', () => {
     test("Sentence with the whole alphabet, with accents and 'ñ'", () => {

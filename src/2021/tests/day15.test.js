@@ -1,4 +1,4 @@
-import checkSledJump from '../src/day15'
+import checkSledJump from '../exercices/day15'
 
 describe('Day 15 challenge', () => {
     test('Missing half with a few sorted items', () => {
