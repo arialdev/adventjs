@@ -1,7 +1,7 @@
 /**
  * Problem description:
     In the Santa Claus stores they are doing inventory. There are three stores (which is represented
-      as an Array each). In each store there are gifts.
+    as an Array each). In each store there are gifts.
 
     We have been asked to write a program that tells us what gifts we have to buy to replenish our stores
     now that Christmas is approaching. A gift must be replenished when there is only stock in one of the
