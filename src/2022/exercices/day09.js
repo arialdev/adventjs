@@ -39,7 +39,6 @@
 */
 
 /**
- * 
  * Explicación:
  *  - El ejercicio nos promete que la entrada siempre tendrá un led encendido, por lo que nuestro programa nunca se topará
  *    con una entrada que el algoritmo no pueda resolver. Por esto mismo, nos tomamos la libertad de hacer un while(true),

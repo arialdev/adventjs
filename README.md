@@ -22,7 +22,7 @@ If you think you got into a better solution than the one I propose, please let m
 |   6   |            [Doing gifts inventory](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day07.js)            |   ✅   |
 |   8   |          [¡Necesitamos un mecánico!](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day08.js)          |   ✅   |
 |   9   |         [Las locas luces de Navidad](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day09.js)          |   ✅   |
-|  10   |         [Las locas luces de Navidad](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day10.js)          |   ❌   |
+|  10   |         [Las locas luces de Navidad](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day10.js)          |   ✅   |
 |  11   |                                                             -                                                             |   -   |
 |  12   |                                                             -                                                             |   -   |
 |  13   |                                                             -                                                             |   -   |

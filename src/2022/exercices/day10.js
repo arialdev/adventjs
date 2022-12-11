@@ -39,25 +39,31 @@
 */
 
 /**
- * 
  * Explicación:
+ *  - La idea es ir recorriendo la lista estando pendiente de dos flags: hasIncreased y hasDecreased.
+ *  - Al terminar de recorrer la lista, se habrá formado una parábola si ambos flags están a TRUE.
+ *  - Sin embargo, sólo se puede subir y bajar una vez, por lo que en cada iteración debemos estar pendientes del 
+ *    sentido del movimiento.
+ *  - Para ello calculamos la posición anterior. Para no tener problemas, empezamos a iterar desde al segunda posición de 
+ *    la lista, y así nunca tendremos un valor undefined.
+ *  - Si el sentido del movimiento es ascendente, pero ya habíamos descendido antes, es decir, estaríamos ante una segunda subida,
+ *    salimos de la función devolviendo FALSE.
 */
 
-export default function checkJump(heights) {
-  let inflection = false;
-  let i = 0;
-  while (i < heights.length) {
-    let previousPosition = heights[i - 1];
-    if (previousPosition === undefined)
-      previousPosition = Infinity * (inflection ? 1 : -1);
 
-    if (!inflection && heights[i] < previousPosition) {
-      if (i === 1) return false;
-      inflection = true;
-    } else if (inflection && previousPosition < heights[i]) {
-      return false;
+export default function checkJump(heights) {
+  let i = 1;
+  let hasIncreased = false;
+  let hasDecreased = false;
+  while (i < heights.length) {
+    const previousPosition = heights[i - 1];
+    if (previousPosition < heights[i]) {
+      if (hasDecreased) return false;
+      hasIncreased = true;
+    } else if (previousPosition > heights[i]) {
+      hasDecreased = true;
     }
     i++;
   }
-  return inflection;
+  return hasIncreased && hasDecreased;
 }
