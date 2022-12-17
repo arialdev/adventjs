@@ -27,7 +27,7 @@ If you think you got into a better solution than the one I propose, please let m
 |  12   |         [Trineos eléctricos, ¡guay!](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day12.js)          |   ✅   |
 |  13   |     [Backup de los archivos de Papá Noel](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day13.js)     |   ✅   |
 |  14   |               [El mejor camino](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day14.js)               |   ✅   |
-|  15   |                                                             -                                                             |   -   |
+|  15   |        [Decorando el árbol de Navidad](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day15.js)        |   ✅   |
 |  16   |                                                             -                                                             |   -   |
 |  17   |                                                             -                                                             |   -   |
 |  18   |                                                             -                                                             |   -   |
