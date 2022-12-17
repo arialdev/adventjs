@@ -24,8 +24,8 @@ If you think you got into a better solution than the one I propose, please let m
 |   9   |         [Las locas luces de Navidad](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day09.js)          |   ✅   |
 |  10   |      [El salto del trineo de Papá Noel](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day10.js)       |   ✅   |
 |  11   |          [Papá Noel es Scrum Master](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day11.js)          |   ✅   |
-|  12   |                                                             -                                                             |   -   |
-|  13   |                                                             -                                                             |   -   |
+|  12   |         [Trineos eléctricos, ¡guay!](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day12.js)          |   ✅   |
+|  13   |     [Backup de los archivos de Papá Noel](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day13.js)     |   ✅   |
 |  14   |                                                             -                                                             |   -   |
 |  15   |                                                             -                                                             |   -   |
 |  16   |                                                             -                                                             |   -   |
