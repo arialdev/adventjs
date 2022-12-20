@@ -29,9 +29,9 @@ If you think you got into a better solution than the one I propose, please let m
 |  14   |               [El mejor camino](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day14.js)               |   ✅   |
 |  15   |        [Decorando el árbol de Navidad](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day15.js)        |   ✅   |
 |  16   |     [Arreglando las cartas de Papá Noel](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day16.js)      |   ✅   |
-|  17   |                                                             -                                                             |   -   |
-|  18   |                                                             -                                                             |   -   |
-|  19   |                                                             -                                                             |   -   |
+|  17   |        [Llevando los regalos en sacos](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day17.js)        |   ✅   |
+|  18   |          [¡Nos quedamos sin tinta!](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day18.js)           |   ✅   |
+|  19   |            [Ordenando los regalos](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day19.js)            |   ✅   |
 |  20   |                                                             -                                                             |   -   |
 |  21   |                                                             -                                                             |   -   |
 |  22   |                                                             -                                                             |   -   |
