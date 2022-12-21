@@ -80,13 +80,11 @@ export default function howManyReindeers(reindeerTypes, gifts) {
             reindeerCount[j].num--;
             weightCapacityAcc -= reindeerTypes[j].weightCapacity;
             modified = true;
-            if (j < i - 1) {
-              /*
-                No estamos reajustando el reno superior al que apunta mi índice i, por lo que los renos intermedios deben ser 
-                recalculados.
-              */
-              i--;
-            }
+            if (j < i - 1) i--;
+            /*
+              No estamos reajustando el reno inmediatamente superior al que apunta mi índice i, sino uno aún más superior, por lo
+              que los renos intermedios deben ser recalculados.
+            */
           }
           j--;
         }
