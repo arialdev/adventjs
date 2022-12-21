@@ -32,7 +32,7 @@ If you think you got into a better solution than the one I propose, please let m
 |  17   |        [Llevando los regalos en sacos](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day17.js)        |   ✅   |
 |  18   |          [¡Nos quedamos sin tinta!](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day18.js)           |   ✅   |
 |  19   |            [Ordenando los regalos](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day19.js)            |   ✅   |
-|  20   |                                                             -                                                             |   -   |
+|  20   |            [Más viajes retadores](https://github.com/arialdev/adventjs/blob/main/src/2022/exercices/day20.js)             |   ✅   |
 |  21   |                                                             -                                                             |   -   |
 |  22   |                                                             -                                                             |   -   |
 |  23   |                                                             -                                                             |   -   |
